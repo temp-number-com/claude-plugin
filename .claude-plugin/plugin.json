@@ -18,5 +18,9 @@
   ],
   "repository": "https://github.com/temp-number-com/claude-plugin",
   "icon": "./.claude-plugin/icon.png",
-  "privacyPolicyUrl": "https://temp-number.com/privacy-policy"
+  "privacyPolicyUrl": "https://temp-number.com/privacy-policy",
+  "displayName": "Temp Number",
+  "supportUrl": "https://temp-number.com/contact",
+  "documentationUrl": "https://temp-number.com/developers",
+  "termsOfServiceUrl": "https://temp-number.com/terms"
 }
