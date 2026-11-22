@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "temp-number": {
+      "type": "http",
+      "url": "https://mcp.temp-number.com/mcp"
+    }
+  }
+}

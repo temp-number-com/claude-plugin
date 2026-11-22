@@ -1,0 +1,17 @@
+{
+  "name": "temp-number",
+  "owner": {
+    "name": "Temp Number",
+    "email": "support@temp-number.com"
+  },
+  "metadata": {
+    "description": "Official Temp Number plugin for Claude: private phone numbers and their SMS."
+  },
+  "plugins": [
+    {
+      "name": "temp-number",
+      "source": "./",
+      "description": "Rent private phone numbers, read their SMS and manage renewals from Claude."
+    }
+  ]
+}
