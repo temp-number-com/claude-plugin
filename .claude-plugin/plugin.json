@@ -1,6 +1,6 @@
 {
   "name": "temp-number",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Rent private phone numbers from Temp Number, read the SMS they receive and manage renewals, right from Claude. Keeps your personal number out of sign-ups.",
   "author": {
     "name": "Temp Number",
@@ -16,5 +16,7 @@
     "privacy",
     "mcp"
   ],
-  "repository": "https://github.com/temp-number-com/claude-plugin"
+  "repository": "https://github.com/temp-number-com/claude-plugin",
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://temp-number.com/privacy-policy"
 }

@@ -23,6 +23,16 @@ In Claude Code:
 
 The first time a tool runs, your browser opens the Temp Number sign-in and consent page. Purchases stay off unless you tick **Allow purchases** there.
 
+## Data this plugin sends
+
+The plugin runs no code on your computer. It only connects Claude to the Temp Number MCP server at `https://mcp.temp-number.com/mcp`, and sends nothing anywhere else.
+
+- **Sent to Temp Number:** the tool calls Claude makes for you (for example a country code, a rental length, or the ID of a number you own), with the sign-in token your browser approved.
+- **Returned to Claude:** your wallet balance, prices and stock, the numbers you rent, and the SMS those numbers receive.
+- **Not sent:** your files, your other conversations, or anything from other connectors.
+
+Disconnect at any time in Temp Number under Dashboard → MCP Server → Connected apps. Privacy policy: https://temp-number.com/privacy-policy
+
 ## Requirements
 
 - A Temp Number account with wallet funds: https://temp-number.com
